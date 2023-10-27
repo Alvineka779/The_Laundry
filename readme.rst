@@ -73,7 +73,7 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 Nama Anggota
 ***************
 
-- `Alvin Eka`_
-- `Muhammad Daffa`_
-- `Saiman Akbar`_
-- `Trian Adriansyah`_
+- Alvin Eka
+- Muhammad Daffa
+- Saiman Akbar
+- Trian Adriansyah
