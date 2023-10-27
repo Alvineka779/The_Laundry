@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="<?= base_url();?>assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?= base_url();?>assets/css/bootstrap.css">
     <link rel="stylesheet" href="<?= base_url();?>assets/css/bootstrap.grid.css">
-    <title>The Laundry | Login</title>
+    <title>The_Laundry | Login</title>
 
     <div class="container">
     
@@ -65,7 +65,7 @@
 
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3" style="color:black;">© 2023 Copyright:
-        <a href="#" style="text-decoration: none; color: black;"> The Laundry</a>
+        <a href="#" style="text-decoration: none; color: black;"> The_Laundry</a>
     </div>
     <!-- Copyright -->
 
