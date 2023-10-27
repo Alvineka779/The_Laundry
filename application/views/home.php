@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,10 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="<?= base_url();?>assets/css/bootstrap.css">
     <link rel="stylesheet" href="<?= base_url();?>assets/css/bootstrap.grid.css">
-    <title>The Laundry</title>
-
-    
-
+    <title>The Laundry | Home</title>
 </head>
 <body>
     
