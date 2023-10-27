@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="<?= base_url();?>assets/css/bootstrap.css">
     <link rel="stylesheet" href="<?= base_url();?>assets/css/bootstrap.grid.css">
-    <title>The Laundry | Home</title>
+    <title>The_Laundry | Home</title>
 </head>
 <body>
     
@@ -80,7 +80,7 @@
 
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3" style="color:black;">© 2023 Copyright:
-        <a href="<?= base_url();?>home" style="text-decoration: none; color: black;"> The Laundry</a>
+        <a href="<?= base_url();?>home" style="text-decoration: none; color: black;"> The_Laundry</a>
     </div>
     <!-- Copyright -->
 
